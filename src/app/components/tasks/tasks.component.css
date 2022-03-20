@@ -1,0 +1,7 @@
+.task-container{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px 10px;
+}

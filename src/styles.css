@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+body{
+    background-color: #EEE6CE;
+    
+}
+.btn{
+    color: #FFF;
+    background-color: #2EB086 ;
+    font-family: 'Bungee', cursive;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0px;
+    cursor: pointer;
+    
+}
+.btn:active{
+    background-color: #B8405E;
+}
+.green{
+    color: black;
+}
+.container{
+    max-width: 500px;
+    margin: 0px auto;
+}
